@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="iOS/AluraNtricao.iOS.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AluraNtricao/Data/RefeicaoDao.cs">
+    <Files>
+      <File FileName="AluraNtricao/ListaRefeicoes.xaml" Line="22" Column="15" />
+      <File FileName="AluraNtricao/CadastroDeRefeicao.xaml" Line="12" Column="17" />
+      <File FileName="AluraNtricao/HomeTabbedPage.cs" Line="14" Column="36" />
+      <File FileName="AluraNtricao/CadastroDeRefeicao.xaml.cs" Line="10" Column="30" />
+      <File FileName="AluraNtricao/ListaRefeicoes.xaml.cs" Line="30" Column="4" />
+      <File FileName="AluraNtricao/AluraNtricao.csproj" Line="1" Column="1" />
+      <File FileName="AluraNtricao/Data/RefeicaoDao.cs" Line="6" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AluraNtricao.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.ItemProperties.AluraNtricao.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F4C50754-085A-4FB5-ACF9-C39012FAC9C5" />
+</Properties>
